@@ -1,34 +1,35 @@
-Active Directory (AD) Setup:
+AD -» Active Directory (AD) Setup:
 Establish a Domain Controller (DC).
 Create employee accounts based on the provided organizational chart.
 Develop an automated script for streamlined user creation.
 
 
 
-Network Access Control (NAC):
+PfSense -» Network Access Control (NAC):
 Implement a NAC solution with a Captive Portal using FreeRADIUS.
 Integrate FreeRADIUS with Active Directory.
 
 
 
-Security Policies:
+AD -» Security Policies:
+- Think the policies needed for each group
 Configure password policies to enforce strong authentication.
 Define access policies to implement least privilege principles.
 
 
 
-Workstation Standardization:
+AD -» Workstation Standardization:
 Apply standardized settings, including company-branded wallpapers, across all workstations.
 
 
 
-Custom Network Tooling:
+Scripting -» Custom Network Tooling:
 Design and implement a custom tool to identify and monitor devices connected to the network.
 Host all custom tooling on a GitHub repository with clear documentation.
 
 
 
-Secure File Server:
+AD -» Secure File Server:
 Set up a FileZilla FTP server for secure internal and external file exchanges.
 
 
@@ -37,3 +38,7 @@ Reporting and Presentation:
 Prepare a written report to hand out to the client, summarizing the project implementation and results.
 Create a 15-minute presentation summarizing your implementation process and outcomes.
 
+
+Tarefas:
+- Configurar AD - Hanna 08/05
+- Criar script para users - Roberta 08/05
