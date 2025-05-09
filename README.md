@@ -1,6 +1,6 @@
 # **DataFort Solutions - Secure IT Infrastructure Implementation**  
 **Course:** Code For All - Intensive Cybersecurity Course #2 (ICC-02)  
-**Team:** [Your Team Name]  
+**Team:** Team A  
 **Date:** 15/05/2025 
 
 ---
@@ -20,11 +20,11 @@ This project implements a secure IT infrastructure for DataFort Solutions, inclu
 ## **✅ Project Deliverables**  
 
 ### **1. Active Directory Implementation**  
-- [Domain controller configuration](Documentation/DC_Setup.md)  
-- Organizational Unit (OU) structure mirroring company hierarchy  
-- PowerShell script for automated user creation (`/Scripts/UserCreation.ps1`)  
+- [Domain controller configuration](Documentation/DC_Setup.md)
+<!--- Organizational Unit (OU) structure mirroring company hierarchy  -->
+<!---- PowerShell script for automated user creation (`/Scripts/UserCreation.ps1`) --> 
 
-### **2. Network Access Control**  
+<!----### **2. Network Access Control**  
 - FreeRADIUS captive portal implementation  
 - AD integration for authentication  
 - Access policies following least privilege principle  
@@ -48,43 +48,43 @@ This project implements a secure IT infrastructure for DataFort Solutions, inclu
 
 ### **7. Reporting**  
 - Client report: `/Documentation/Client_Report.pdf`  
-- Presentation slides: `/Documentation/Project_Presentation.pptx`  
+- Presentation slides: `/Documentation/Project_Presentation.pptx`  -->
 
 ---
 
 ## **🛠️ Technical Implementation**  
 
-``powershell
+<!---``powershell
 # Example: Verify AD user creation
 Get-ADUser -Filter * | Select Name,Enabled
 
 # Example: Test FreeRADIUS authentication
-radtest username password localhost 0 testing123
+radtest username password localhost 0 testing123-->
 
 ---
 
 ## **📂 Repository Structure**
 /  
 ├── AD_Config/            # Active Directory setup files
-├── FreeRADIUS/           # NAC configuration  
-├── GPO_Backups/          # Exported Group Policy Objects  
-├── Tools/                # Custom network tools  
-│   └── NetworkMonitor.py  
+<!---├── FreeRADIUS/           # NAC configuration  -->
+<!---├── GPO_Backups/          # Exported Group Policy Objects  -->
+<!---├── Tools/                # Custom network tools  -->
+<!---│   └── NetworkMonitor.py  -->
 ├── Documentation
 │   ├── DC_Setup.md/
-│   ├── Workstation_Standardization/  
-│   ├── Client_Report.pdf  
-│   └── Network_Diagrams/  
-├── Scripts/              # Automation scripts  
+<!---│   ├── Workstation_Standardization/  -->
+<!---│   ├── Client_Report.pdf  -->
+<!---│   └── Network_Diagrams/  -->
+<!---├── Scripts/              # Automation scripts  -->
 └── README.md             # This file
 
 ---
 
-## **⚠️ Important Notes**  
+<!---## **⚠️ Important Notes**  
 *(No README.md)*  
 - [Credenciais padrão](Documentation/SECURITY_NOTES.md) devem ser alteradas em produção  
 - Testado apenas em Windows Server 2019  
 
 ## **🔜 Next Steps**  
 *(Link para arquivo detalhado)*  
-Veja o [ROADMAP.md](Documentation/ROADMAP.md) para o plano de implementação futura.  
+Veja o [ROADMAP.md](Documentation/ROADMAP.md) para o plano de implementação futura.  -->
