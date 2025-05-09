@@ -25,5 +25,5 @@ Each department is then represented by a sub-OU within this main OU. Users are a
 ## . Evidence  
 ### Screenshots:  
 - [x] **DC Promotion Verification**  
-  ![DC Promotion Success](Documentation/Screenshots/DC-promotion-verification.png) 
+  ![DC Promotion Success](https://github.com/roberta-vieira/project_1-Team-A/blob/7a7c9890b3a509a54bda8cd65ce00ca0231b6b0e/Documentation/Screenshots/DC-promotion-verification.png) 
   *Successful promotion dialog and AD DS installation*  
