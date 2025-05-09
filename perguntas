@@ -1,32 +1,12 @@
-# Perguntas
-- O que é suposto ter no GIT?
-VMs não dão
-scripts
-Documentos a mostrar como se faz
 
 
-## Active Directory (AD) Setup:
-- Establish a Domain Controller (DC).
-- Create employee accounts based on the provided organizational chart.
-- Develop an automated script for streamlined user creation.
-## 2. Network Access Control (NAC):
-Implement a NAC solution with a Captive Portal using FreeRADIUS.
-Integrate FreeRADIUS with Active Directory.
-## 3. Security Policies:
-Configure password policies to enforce strong authentication.
-Define access policies to implement least privilege principles.
-## 4. Workstation Standardization:
-Apply standardized settings, including company-branded wallpapers, across all
-workstations.
-## 5. Custom Network Tooling:
-Design and implement a custom tool to identify and monitor devices connected to the
-network.
-Host all custom tooling on a GitHub repository with clear documentation.
-## 6. Secure File Server:
-Set up a FileZilla FTP server for secure internal and external file exchanges.
 
-## Network Access Control (NAC):
-- Implement a NAC solution with a Captive Portal using FreeRADIUS.
-- Integrate FreeRADIUS with Active Directory.
-
-
+Servidor que vamos criar usa protocolo FTP, temos de escolher uma máquina para o ter
+1 de nós com projeto inteiro:
+- 
+Apresentação:
+- 
+Vou configurar active directory
+Fizemos estas escolhas por causa disto, em cada etapa
+Dizer tudo o que optámos e porque motivo
+Apresentação, fazer demo
