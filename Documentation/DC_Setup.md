@@ -5,7 +5,7 @@
 
 ## 1. Technical Specifications  
 - **IP Address:** 10.0.2.15  
-- **DNS Server:** 127.0.0.1 (self)  
+- **DNS Server:** 127.0.0.1 (localhost)  
 - **Domain Name:** datafort.local  
 - **Forest Functional Level:** Windows Server 2016 *(default for WS2019)*  
 
