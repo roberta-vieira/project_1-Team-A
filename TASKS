@@ -1,24 +1,24 @@
-AD -» Active Directory (AD) Setup:
+## AD -» Active Directory (AD) Setup:
 [X] Establish a Domain Controller (DC).
 Create employee accounts based on the provided organizational chart.
 Develop an automated script for streamlined user creation.
 
 
 
-PfSense -» Network Access Control (NAC):
+##PfSense -» Network Access Control (NAC):
 Implement a NAC solution with a Captive Portal using FreeRADIUS.
 Integrate FreeRADIUS with Active Directory.
 
 
 
-AD -» Security Policies:
+## AD -» Security Policies:
 - Think the policies needed for each group
 Configure password policies to enforce strong authentication.
 Define access policies to implement least privilege principles.
 
 
 
-AD -» Workstation Standardization:
+##AD -» Workstation Standardization:
 Apply standardized settings, including company-branded wallpapers, across all workstations.
 
 
