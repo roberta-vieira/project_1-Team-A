@@ -1,5 +1,5 @@
 AD -» Active Directory (AD) Setup:
-Establish a Domain Controller (DC).
+[X] Establish a Domain Controller (DC).
 Create employee accounts based on the provided organizational chart.
 Develop an automated script for streamlined user creation.
 
