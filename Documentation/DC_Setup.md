@@ -15,11 +15,11 @@
    ```powershell
    Get-ADDomain | FL Name,DomainMode,DNSRoot
    
-## 3. User Organization and CSV Structure
+<!--## 3. User Organization and CSV Structure
 Users are created using a PowerShell script that reads from a structured CSV file: `/Scripts/UserList.csv`.
 
 The organizational structure within Active Directory is organized under a main Organizational Unit (OU) named `DataFort Users`.<br>
-Each department is then represented by a sub-OU within this main OU. Users are assigned to the corresponding sub-OU according to their departments from the information provided in the document `datafort-organizational chart.pdf`.
+Each department is then represented by a sub-OU within this main OU. Users are assigned to the corresponding sub-OU according to their departments from the information provided in the document `datafort-organizational chart.pdf`. -->
 
 
 ## . Evidence  
