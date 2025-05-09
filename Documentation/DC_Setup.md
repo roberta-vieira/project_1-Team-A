@@ -18,5 +18,5 @@
 ## 3. Evidence  
 ### Screenshots:  
 - [x] **DC Promotion Verification**  
-  ![DC Promotion Success](Documentation/Screenshots/DC-promotion.verification.png)  
+  ![DC Promotion Success](Documentation/Screenshots/DC-promotion.verification)  
   *Successful promotion dialog and AD DS installation*  
