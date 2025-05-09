@@ -1,44 +1,46 @@
-## AD -» Active Directory (AD) Setup:
-[X] Establish a Domain Controller (DC).
-Create employee accounts based on the provided organizational chart.
-Develop an automated script for streamlined user creation.
+AD -» Active Directory (AD) Setup:
+[ X ] Establish a Domain Controller (DC).
+[   ] Create employee accounts based on the provided organizational chart.
+[   ] Develop an automated script for streamlined user creation.
 
 
 
-##PfSense -» Network Access Control (NAC):
-Implement a NAC solution with a Captive Portal using FreeRADIUS.
-Integrate FreeRADIUS with Active Directory.
+PfSense -» Network Access Control (NAC):
+[   ] Implement a NAC solution with a Captive Portal using FreeRADIUS.
+[   ] Integrate FreeRADIUS with Active Directory.
 
 
 
-## AD -» Security Policies:
+AD -» Security Policies:
 - Think the policies needed for each group
-Configure password policies to enforce strong authentication.
-Define access policies to implement least privilege principles.
+[   ] Configure password policies to enforce strong authentication.
+[   ] Define access policies to implement least privilege principles.
 
 
 
-##AD -» Workstation Standardization:
-Apply standardized settings, including company-branded wallpapers, across all workstations.
+AD -» Workstation Standardization:
+[   ] Apply standardized settings, including company-branded wallpapers, across all workstations.
 
 
 
 Scripting -» Custom Network Tooling:
-Design and implement a custom tool to identify and monitor devices connected to the network.
-Host all custom tooling on a GitHub repository with clear documentation.
+[   ] Design and implement a custom tool to identify and monitor devices connected to the network.
+[   ] Host all custom tooling on a GitHub repository with clear documentation.
 
 
 
 AD -» Secure File Server:
-Set up a FileZilla FTP server for secure internal and external file exchanges.
+[   ] Set up a FileZilla FTP server for secure internal and external file exchanges.
 
 
 
 Reporting and Presentation:
-Prepare a written report to hand out to the client, summarizing the project implementation and results.
-Create a 15-minute presentation summarizing your implementation process and outcomes.
+[   ] Prepare a written report to hand out to the client, summarizing the project implementation and results.
+[   ] Create a 15-minute presentation summarizing your implementation process and outcomes.
 
 
 Tarefas:
-- Configurar AD - Hanna 08/05
+- Configurar AD - Hanna 08/05 - DONE
 - Criar script para users - Roberta 08/05
+- Imprement a NAC solution with a Captive Portal using FreeRADIUS - Hanna 09/05
+- Integrate FreeRadius with Active Directory - Hanna 09/05
