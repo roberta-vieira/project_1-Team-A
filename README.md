@@ -20,7 +20,7 @@ This project implements a secure IT infrastructure for DataFort Solutions, inclu
 ## **✅ Project Deliverables**  
 
 ### **1. Active Directory Implementation**  
-- Domain controller configuration (Documentation/DC_Setup.md)  
+- Domain controller configuration (/Documentation/DC_Setup.md)  
 - Organizational Unit (OU) structure mirroring company hierarchy  
 - PowerShell script for automated user creation (`/Scripts/UserCreation.ps1`)  
 
