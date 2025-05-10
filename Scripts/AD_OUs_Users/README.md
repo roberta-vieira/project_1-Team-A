@@ -18,6 +18,10 @@ Before running these scripts:
 - The domain **must** be named 'datafort.local'.
 - Run the scripts in **PowerShell as Administrator**.
 - The CSV files must be in the **same directory** as the scripts being executed.
+- If running PowerShell scripts for the first time, you may need to enable script execution by running the following command:
+
+  ```powershell
+  Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ## Execution Order
 
