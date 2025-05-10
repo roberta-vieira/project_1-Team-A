@@ -1,0 +1,10 @@
+﻿name;path
+DataFort Users;DC=datafort,DC=local
+Executive Team;OU=DataFort Users,DC=datafort,DC=local
+IT;OU=DataFort Users,DC=datafort,DC=local
+Software Development;OU=DataFort Users,DC=datafort,DC=local
+Operations;OU=DataFort Users,DC=datafort,DC=local
+Sales & Marketing;OU=DataFort Users,DC=datafort,DC=local
+Data Analysts;OU=DataFort Users,DC=datafort,DC=local
+Finance;OU=DataFort Users,DC=datafort,DC=local
+Customer Support;OU=DataFort Users,DC=datafort,DC=local

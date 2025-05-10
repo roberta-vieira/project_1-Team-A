@@ -1,0 +1,31 @@
+﻿First Name;Last Name;Job Title;Department;Organizational Unit
+Christopher;Reed;CEO;Executive Team;OU=Executive Team,OU=DataFort Users,DC=datafort,DC=local
+Jennifer;Baker;CFO;Executive Team;OU=Executive Team,OU=DataFort Users,DC=datafort,DC=local
+Abigail;Johnson;IT Director;IT Department;OU=IT,OU=DataFort Users,DC=datafort,DC=local
+Logan;King;Systems Administrator;IT Department;OU=IT,OU=DataFort Users,DC=datafort,DC=local
+Natalie;Scott;Network Engineer;IT Department;OU=IT,OU=DataFort Users,DC=datafort,DC=local
+Elijah;Torres;Security Engineer;IT Department;OU=IT,OU=DataFort Users,DC=datafort,DC=local
+Zoey;Adams;Helpdesk Support (Level 1);IT Department;OU=IT,OU=DataFort Users,DC=datafort,DC=local
+Caleb;Cooper;Helpdesk Support (Level 1);IT Department;OU=IT,OU=DataFort Users,DC=datafort,DC=local
+Madison;Young;Software Manager;Software Development Team;OU=Software Development,OU=DataFort Users,DC=datafort,DC=local
+Gabriel;Hill;Frontend Developer;Software Development Team;OU=Software Development,OU=DataFort Users,DC=datafort,DC=local
+Harper;Green;Backend Developer;Software Development Team;OU=Software Development,OU=DataFort Users,DC=datafort,DC=local
+David;Clark;QA Engineer;Software Development Team;OU=Software Development,OU=DataFort Users,DC=datafort,DC=local
+Amelia;Baker;DevOps Engineer;Software Development Team;OU=Software Development,OU=DataFort Users,DC=datafort,DC=local
+Victoria;Harris;HR Manager;Operations;OU=Operations,OU=DataFort Users,DC=datafort,DC=local
+Mason;Parker;HR Specialist;Operations;OU=Operations,OU=DataFort Users,DC=datafort,DC=local
+Layla;Wright;Office Manager;Operations;OU=Operations,OU=DataFort Users,DC=datafort,DC=local
+Hunter;Brown;Sales Director;Sales & Marketing;OU=Sales & Marketing,OU=DataFort Users,DC=datafort,DC=local
+Stella;Wilson;Marketing Manager;Sales & Marketing;OU=Sales & Marketing,OU=DataFort Users,DC=datafort,DC=local
+Dylan;Allen;Digital Marketer;Sales & Marketing;OU=Sales & Marketing,OU=DataFort Users,DC=datafort,DC=local
+Nora;Lee;Sales Representative;Sales & Marketing;OU=Sales & Marketing,OU=DataFort Users,DC=datafort,DC=local
+Carson;Lewis;Sales Representative;Sales & Marketing;OU=Sales & Marketing,OU=DataFort Users,DC=datafort,DC=local
+Jack;Campbell;Data Analyst;Data Analysts;OU=Data Analysts,OU=DataFort Users,DC=datafort,DC=local
+Lucy;Turner;Data Analyst;Data Analysts;OU=Data Analysts,OU=DataFort Users,DC=datafort,DC=local
+Andrew;Martin;Data Analyst;Data Analysts;OU=Data Analysts,OU=DataFort Users,DC=datafort,DC=local
+Audrey;Clark;Finance Director;Finance;OU=Finance,OU=DataFort Users,DC=datafort,DC=local
+Aiden;Hall;Accountant;Finance;OU=Finance,OU=DataFort Users,DC=datafort,DC=local
+Natalie;Hall;Payroll Specialist;Finance;OU=Finance,OU=DataFort Users,DC=datafort,DC=local
+Sophie;Torres;Customer Service Manager;Customer Support;OU=Customer Support,OU=DataFort Users,DC=datafort,DC=local
+Ethan;Ramirez;Support Specialist;Customer Support;OU=Customer Support,OU=DataFort Users,DC=datafort,DC=local
+Ava;Edwards;Support Specialist;Customer Support;OU=Customer Support,OU=DataFort Users,DC=datafort,DC=local
