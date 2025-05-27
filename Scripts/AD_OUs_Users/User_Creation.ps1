@@ -7,10 +7,11 @@ $users = Import-Csv ".\import_users.csv" -Delimiter ";"
 # Default password for the users
 $password = ConvertTo-SecureString "1Df@ultP@ssword!Team-A" -AsPlainText -Force
 
+Write-Output "`nCreating users in Active Directory`n"
+
 # Loop through each row to gather the user's information and create the AD account
 foreach ($user in $users){
 
-    Write-Output "User being created:"
     Write-Output $user
 
     $first_name = $user.'First Name'
