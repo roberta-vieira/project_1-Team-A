@@ -17,7 +17,38 @@ This project implements a secure IT infrastructure for DataFort Solutions, inclu
 
 ---
 
-## **✅ Project Deliverables**  
+## 📄 Project Resources
+
+- 📘 **Full Implementation Report:** [Report](./Documentation/Client_Report.pdf)  
+  A detailed and extensive explanation of the infrastructure implementation.  
+  It includes configuration steps and elaborates on the goals stated in the section above.
+
+- 🎥 **Final Presentation Slides:** [Presentation](https://docs.google.com/presentation/d/15_8kluKq5f-dMTVwf_QDke0DW-dwzBSU/edit?usp=sharing&ouid=110327765505826154119&rtpof=true&sd=true)  
+  The presentation used to explain the overall project and the strategies to implement the infrastructure.
+
+---
+
+
+## **📂 Repository Structure**
+/  
+├── AD_Config/            # Active Directory setup files
+<!---├── FreeRADIUS/           # NAC configuration  -->
+<!---├── GPO_Backups/          # Exported Group Policy Objects  -->
+<!---├── Tools/                # Custom network tools  -->
+<!---│   └── NetworkMonitor.py  -->
+├── Documentation
+│   ├── DC_Setup.md/
+<!---│   ├── Workstation_Standardization/  -->
+<!---│   ├── Client_Report.pdf  -->
+<!---│   └── Network_Diagrams/  -->
+<!---├── Scripts/              # Automation scripts  -->
+└── README.md             # This file
+
+---
+
+
+
+<!---## **✅ Project Deliverables**  
 
 ### **1. Active Directory Implementation**  
 - [Domain controller configuration](Documentation/DC_Setup.md)
@@ -50,7 +81,7 @@ This project implements a secure IT infrastructure for DataFort Solutions, inclu
 - Client report: `/Documentation/Client_Report.pdf`  
 - Presentation slides: `/Documentation/Project_Presentation.pptx`  -->
 
----
+<!------
 
 ## **🛠️ Technical Implementation**  
 
@@ -61,24 +92,6 @@ Get-ADUser -Filter * | Select Name,Enabled
 # Example: Test FreeRADIUS authentication
 radtest username password localhost 0 testing123-->
 
----
-
-## **📂 Repository Structure**
-/  
-├── AD_Config/            # Active Directory setup files
-<!---├── FreeRADIUS/           # NAC configuration  -->
-<!---├── GPO_Backups/          # Exported Group Policy Objects  -->
-<!---├── Tools/                # Custom network tools  -->
-<!---│   └── NetworkMonitor.py  -->
-├── Documentation
-│   ├── DC_Setup.md/
-<!---│   ├── Workstation_Standardization/  -->
-<!---│   ├── Client_Report.pdf  -->
-<!---│   └── Network_Diagrams/  -->
-<!---├── Scripts/              # Automation scripts  -->
-└── README.md             # This file
-
----
 
 <!---## **⚠️ Important Notes**  
 *(No README.md)*  
